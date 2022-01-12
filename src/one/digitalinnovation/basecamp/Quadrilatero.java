@@ -25,4 +25,5 @@ public class Quadrilatero {
         System.out.println("Área do losango:" + (diagonal1 * diagonal2)/2);
     }
 
+
 }
